@@ -6,6 +6,7 @@ xView (http://xviewdataset.org/) is a large publicly available object detection 
 million objects across 60 categories. It contains manually annotated images from different scenes around the
 world, acquired using the WorldView-3 satellite at 0.3m ground sample distance. There are 846 annotated
 images in total. For this practice, we divide these annotations into 761 and 85 images for training and testing.
+
 For image recognition, we crop previous images using their annotated bounding boxes to extract a subset of
 objects of interest. In this way, we collected 21377 and 2635 objects for training and testing respectively. The
 resulting images are resized to 224x224.
