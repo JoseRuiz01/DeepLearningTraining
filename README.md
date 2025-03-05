@@ -12,8 +12,8 @@ resulting images are resized to 224x224.
 
 ## Experiments
 ### 01 - ffNN 
-Discuss and compare experiments using ffNNs, including optimization algorithm, number of layers /
-parameters, and performance obtained with our models on the testing data set, including the plots
+Discuss and compare experiments using ffNNs, including optimization algorithm, number of layers/parameters, 
+and performance obtained with our models on the testing data set, including the plots
 of the evolution of losses and accuracy performances.
 
 ### 02 - Regularization 
