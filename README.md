@@ -1,5 +1,5 @@
 # DeepLearningTraining
-Experiments with different deep learning architectures for image classification.
+Experiments with different deep learning architectures for image classification
 
 ## Dataset
 xView (http://xviewdataset.org/) is a large publicly available object detection data set, with approximately 1
